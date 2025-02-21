@@ -5,7 +5,7 @@ The web site is built with [Pelican](https://docs.getpelican.com/en/latest/), a 
 
 Specifically, the version used is the one shipped with debian 12 ``bookworm``: 4.8.0+dfsg-1
 
- 
+
 ## Local development
 
 In order to make changes to the site, you must first install pelican and make:
@@ -14,7 +14,10 @@ In order to make changes to the site, you must first install pelican and make:
 sudo apt install pelican make
 ```
 
-then you can run 
+then you can run
 ```
 make devserver
+
 ```
+
+then you can point your browser to  `http://localhost:8000` and you will see the development site
