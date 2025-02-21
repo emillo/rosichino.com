@@ -1,0 +1,204 @@
+@font-face {
+  font-family: "Cherry Cream Soda"; /* Nome che userai nel CSS */
+  src: url("/theme/fonts/CherryCreamSoda-Regular.woff2") format("woff2"); /* Percorso relativo */
+  font-weight: normal; /* Opzioni: normal, bold, ecc. */
+  font-style: normal; /* Opzioni: normal, italic, ecc. */
+}
+
+body {
+  font-family: "Arial", sans-serif;
+}
+
+.custom-bg {
+  background-color: #faf;
+  color: #333333 !important;
+}
+
+header {
+  text-align: center;
+}
+footer {
+  font-size: 0.9em;
+}
+
+.rosichino-title {
+  font-family: "Cherry Cream Soda", sans-serif;
+  font-weight: bold; /* Grassetto per il titolo */
+  /* color: #ffcc00;     */
+  letter-spacing: -1px; /* Leggero spazialamento negativo per dare una sensazione di compattezza */
+  line-height: 1.2; /* Distanza ottimale tra le linee */
+}
+
+/* Effetto hover per rendere il titolo più interattivo */
+.rosichino-title :hover {
+  /* color: #ffcc00;  */
+  text-decoration: underline;
+}
+
+.rosichino-title :not(:hover) {
+  /* color: #ffcc00;  */
+  text-decoration: none;
+}
+
+/* Custom CSS for Bootstrap with a Brazilian color palette */
+
+/* Primary Colors */
+:root {
+  --bs-primary: #009b3a; /* Verde bandiera brasiliana */
+  --bs-secondary: #ffcc29; /* Giallo brillante */
+  --bs-success: #0046ad; /* Blu del cerchio della bandiera */
+  --bs-danger: #d62828; /* Rosso tropicale per accenti */
+  --bs-warning: #ffc107; /* Giallo dorato */
+  --bs-info: #006400; /* Forest green */
+  --bs-light: #f8f9fa; /* Bianco delicato */
+  --bs-dark: #212529; /* Nero classico */
+  --bs-warm: #c1440e; /* burnt orange */
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+}
+
+.btn-primary:hover {
+  background-color: #007f32; /* Verde leggermente più scuro */
+  border-color: #00732a;
+}
+
+.btn-secondary {
+  background-color: var(--bs-secondary);
+  border-color: var(--bs-secondary);
+}
+
+.btn-secondary:hover {
+  background-color: #e6b922; /* Giallo più caldo */
+  border-color: #d6a520;
+}
+/* Links */
+a {
+  color: var(--bs-primary);
+}
+
+a:hover {
+  color: #007f32; /* Verde scuro */
+  text-decoration: underline;
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--bs-primary);
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: var(--bs-light);
+}
+/*  */
+.navbar .nav-link:hover {
+  color: var(--bs-secondary);
+}
+/*  */
+/* Cards */
+.card {
+  border-color: var(--bs-primary);
+}
+
+.card-header {
+  background-color: var(--bs-secondary);
+  color: var(--bs-dark);
+}
+
+.card-body {
+  background-color: var(--bs-light);
+}
+
+/* Backgrounds */
+.bg-primary {
+  background-color: var(--bs-primary) !important;
+  color: var(--bs-light) !important;
+}
+
+.bg-secondary {
+  background-color: var(--bs-secondary) !important;
+  color: var(--bs-dark) !important;
+}
+
+.bg-success {
+  background-color: var(--bs-success) !important;
+  color: var(--bs-light) !important;
+}
+
+.bg-danger {
+  background-color: var(--bs-danger) !important;
+  color: var(--bs-light) !important;
+}
+
+.bg-warning {
+  /* background-color: var(--bs-warning) !important; */
+  background-color: #faf5e9 !important;
+  color: var(--bs-dark) !important;
+}
+
+.bg-info {
+  background-color: var(--bs-info) !important;
+  color: var(--bs-light) !important;
+}
+
+/* Footer */
+footer {
+  background-color: var(--bs-dark);
+  color: var(--bs-light);
+  padding: 20px 0;
+  text-align: center;
+}
+
+footer a {
+  color: var(--bs-secondary);
+}
+
+footer a:hover {
+  color: var(--bs-light);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Cherry Cream Soda", sans-serif;
+  letter-spacing: -1px;
+}
+
+h1,
+h2 {
+  color: var(--bs-warm);
+}
+
+h3,
+h4 {
+  color: var(--bs-info);
+}
+
+.iframe-container {
+  position: relative;
+  width: 100%;
+  padding-top: 75%;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+/* Iframe che occupa tutto lo spazio del contenitore */
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+    border: none; /* Rimuove il bordo dell'iframe */
+}
+
+
+img {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}

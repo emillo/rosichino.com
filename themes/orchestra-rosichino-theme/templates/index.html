@@ -1,0 +1,100 @@
+{% extends "base.html" %} {% block content %}
+<div class="text-center">
+  <h2>Benvenuti nel mondo dello Spaghetti Samba!</h2>
+  <p class="lead">
+    Un'esperienza musicale unica che fonde ritmi italiani e brasiliani.
+  </p>
+  <a href="{{ SITEURL }}/pages/concerts.html" class="btn btn-danger"
+    >Scopri i prossimi concerti</a
+  >
+</div>
+<!-- <div class="row mt-5"> -->
+<!--   <div class="col-md-6"> -->
+<!--     <h3>I nostri brani</h3> -->
+<!--     <p> -->
+<!--       Ascolta i nostri album sulle piattaforme di streaming: -->
+<!--       <iframe -->
+<!--         style="border-radius: 12px" -->
+<!--         src="https://open.spotify.com/embed/album/5S0LufS6I7plaSM0HHNhu4?utm_source=generator" -->
+<!--         width="100%" -->
+<!--         height="352" -->
+<!--         frameborder="0" -->
+<!--         allowfullscreen="" -->
+<!--         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" -->
+<!--         loading="lazy" -->
+<!--       ></iframe> -->
+<!--       <iframe -->
+<!--         style="border-radius: 12px" -->
+<!--         src="https://open.spotify.com/embed/album/2CC7nmIoRmFtrN83ooAYGq?utm_source=generator" -->
+<!--         width="100%" -->
+<!--         height="352" -->
+<!--         frameborder="0" -->
+<!--         allowfullscreen="" -->
+<!--         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" -->
+<!--         loading="lazy" -->
+<!--       ></iframe> -->
+<!--     </p> -->
+<!--   </div> -->
+
+<div class="col-md-12">
+  <h3>Uno Stile Inconfondibile</h3>
+
+  <p>
+    L'Orchestra Rosichino ha creato un genere unico: lo
+    <em>spaghetti samba</em>, una fusione esplosiva che richiama l’epicità delle
+    colonne sonore di <strong>Ennio Morricone</strong> e il calore ritmico del
+    samba brasiliano. Come Morricone con lo <em>spaghetti western</em>, la band
+    trasforma ogni brano in un viaggio cinematografico, in cui melodie
+    drammatiche e nostalgiche si intrecciano con ritmi vivaci e trascinanti. La
+    <em>fisarmonica</em> e il <em>cavaquinho</em> creano un dialogo tra due
+    mondi: le sonorità della tradizione italiana e i colori della musica
+    brasiliana.
+  </p>
+
+  <p>
+    L'Orchestra abbraccia la diversità culturale, mescolando lingue e influenze
+    con disinvoltura. I testi passano dall'italiano al portoghese, con
+    incursioni in spagnolo e francese, riflettendo il desiderio di connettere le
+    persone attraverso un linguaggio musicale universale. La <em>tromba</em> e
+    il <em>trombone</em> aggiungono profondità e vitalità, evocando sia le
+    fanfare western che i festosi cortei di carnevale, rendendo ogni brano
+    un'esperienza autenticamente internazionale.
+  </p>
+
+  <p>
+    La sezione ritmica, con <em>basso</em>, <em>batteria</em> e
+    <em>cavaquinho</em>, crea un <em>groove</em> irresistibile che invita il
+    pubblico a muoversi. Il basso guida con solide fondamenta jazz, mentre la
+    batteria alterna sincopi tropicali a cadenze più tradizionali. Il
+    cavaquinho, tipico della samba, aggiunge un tocco distintivo, mantenendo un
+    equilibrio perfetto tra il folklore brasiliano e l'energia tipica delle
+    orchestre popolari italiane.
+  </p>
+
+  <p>
+    L'Orchestra Rosichino è un ponte sonoro tra tradizione e innovazione, capace
+    di evocare paesaggi polverosi e tramonti dorati come in un film western, per
+    poi catapultare l'ascoltatore in una festa di strada brasiliana. Con un
+    repertorio che oscilla tra <em>malinconia</em> e <em>gioia</em>, il loro
+    <em>spaghetti samba</em> è un invito irresistibile a celebrare le
+    connessioni tra culture lontane ma profondamente affini.
+  </p>
+</div>
+<div class="col-md-12">
+  <h2>Ultimo articolo del blog</h2>
+  <section id="content" class="body">
+    <dl>
+      {% for article in dates %} {% if loop.first %}
+      <dt>pubblicato {{ article.locale_date }}</dt>
+      <dd>
+        <h3>
+          <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+        </h3>
+      </dd>
+      {{ article.content }} {% endif %} {% endfor %}
+    </dl>
+    <h4>Per la lista degli articoli precedenti vedi <a href="archives.html">l'archivio</a></h4>
+  </section>
+</div>
+
+{% endblock %}
