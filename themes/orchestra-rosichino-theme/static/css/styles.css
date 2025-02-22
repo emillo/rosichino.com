@@ -85,20 +85,38 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Navbar */
-.navbar {
-  background-color: var(--bs-primary);
+/* header.bg-primary, .navbar.bg-primary { */
+/*     background-image: url('/theme/images/random-grey-variations.png'); /\* Sostituisci con il percorso del tuo pattern *\/ */
+/*     background-repeat: repeat; */
+/*     background-size: 200px; /\* Regola la dimensione del pattern *\/ */
+/*     opacity: 1; /\* Regola l'opacità del pattern *\/ */
+/* } */
+
+header.bg-primary, .navbar {
+    background-color: var(--bs-primary); /* Colore di sfondo */
+    background-image: url('/theme/images/random-grey-variations.png'); /* Sostituisci con il percorso del tuo pattern */
+    background-repeat: repeat;
+    background-size: 200px; /* Regola la dimensione del pattern */
+    background-blend-mode: overlay; /* Miscela il pattern con il colore di sfondo */
+    opacity: 1; /* Regola l'opacità del pattern */
 }
+
+/* Navbar */
+/* .navbar { */
+/*     background-color: var(--bs-primary); */
+/*     background-blend-mode: overlay */
+/* } */
 
 .navbar .navbar-brand,
 .navbar .nav-link {
   color: var(--bs-light);
 }
-/*  */
+
 .navbar .nav-link:hover {
   color: var(--bs-secondary);
 }
-/*  */
+
+
 /* Cards */
 .card {
   border-color: var(--bs-primary);
@@ -110,7 +128,8 @@ a:hover {
 }
 
 .card-body {
-  background-color: var(--bs-light);
+    background-color: var(--bs-light);
+    
 }
 
 /* Backgrounds */
