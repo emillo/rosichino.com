@@ -12,7 +12,7 @@ La poetica del gruppo nato in Olanda è la riscoperta del proprio Babboo interio
 
 Sarà possibile ascoltarli dal vivo ad agosto in queste date:
 
-![](/images/fetched_images/rosichinostemma.1.png)
+![](/images/fetched_images/rosichinostemma.1.png "stemma rosichino")
 
  th 6  Aug    Fattizze d'Arneo \(LE\)<br/>
  fr   7 Aug Piccapane \(LE\)<br/>

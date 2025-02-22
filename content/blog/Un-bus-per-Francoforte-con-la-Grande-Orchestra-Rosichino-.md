@@ -5,7 +5,7 @@ date:2015-03-15
 
 
 
-![](/images/fetched_images/11050156_865098223550329_6725614304783852715_n.jpg){: .img-fluid .w-100}
+![](/images/fetched_images/11050156_865098223550329_6725614304783852715_n.jpg "spartaaa"){: .img-fluid .w-100}
 
 In vista delle manifestazioni di protesta del 18 marzo a Francoforte
 per sostenere la causa del popolo greco, la Grande Orchestra ha

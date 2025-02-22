@@ -22,7 +22,7 @@ Abbiamo suonato la canzone anche a Ferrara per i buskers ed è venuta così:
 ---
 Questa versione unisce l'audio originale dei Ferrara Buskers 2012 con la registrazione ufficiale dell'album "Il capitano Amarilla e altre storie samba".
 
-![](/images/fetched_images/socrates.jpeg){: .img-fluid .w-100}
+![](/images/fetched_images/socrates.jpeg "Socrates"){: .img-fluid .w-100}
 
 
 Buon ascolto, Davide rosichino

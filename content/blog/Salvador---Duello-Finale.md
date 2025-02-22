@@ -43,6 +43,6 @@ Cosa? è uguale? eh, abbastanza. Però vuoi mettere tutta quella bella strofa, i
 
 Ci vediamo il 2 marzo al B.U.C.O di via Zago, è una grande data da non perdere, con Saverio direttamente paracadutato dall'aereo in ritorno dal Brasile.
 [
-![](/images/fetched_images/Rosico.jpg){: .img-fluid .w-100}
+![](/images/fetched_images/Rosico.jpg "Rosichino"){: .img-fluid .w-100}
 
 Ecco la prima figurina di Oscar Serio per l'orchestra

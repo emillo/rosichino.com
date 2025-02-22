@@ -22,8 +22,33 @@
 {% endblock %}
 
 {% block content %}
-<section id="content" class="body">
-  <header>
+    <section id="content" class="body">
+<h1>Blog Rosichino</h1>
+      <!-- Link al post precedente e successivo -->
+    <div class="article-navigation">
+        {% if article.prev_article %}
+            <a href="{{ SITEURL }}/{{ article.prev_article.url }}" class="prev-article">
+              <span
+                class="nav-text"
+                data-full="&laquo; Indietro ({{ article.prev_article.title }})"
+                data-compact="&laquo; Indietro"
+                </span>
+
+              </a>
+        {% endif %}
+
+        {% if article.next_article %}
+            <a href="{{ SITEURL }}/{{ article.next_article.url }}" class="next-article">
+              <span
+                class="nav-text"
+                data-full="Avanti ({{ article.next_article.title }}) &raquo;"
+                data-compact="Avanti &raquo;"
+                </span>
+            </a>
+        {% endif %}
+    </div>
+
+ <header>
     <h2 class="entry-title" align="left">
       <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
          title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
@@ -31,7 +56,7 @@
     {{ translations.translations_for(article) }}
     <h4 align="left">
       <time class="published" datetime="{{ article.date.isoformat() }}">
-      {{ article.locale_date }}
+      pubblicato {{ article.locale_date }}
     </time>
     </h4>
   </header>

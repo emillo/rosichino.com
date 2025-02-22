@@ -1,1 +1,0 @@
-Max Sorgente \- su internet lo trovate come Illegales Video \- ha tirato su questo bellissimo video fatto durante i buskers di Ferrara 2012. Un montaggio certosino su cui è stata inserita la registrazione dei Cricket Studios. 

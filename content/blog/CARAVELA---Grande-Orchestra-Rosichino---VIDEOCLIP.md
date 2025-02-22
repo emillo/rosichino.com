@@ -1,4 +1,4 @@
-title: CARAVELA - Grande Orchestra Rosichino - VIDEOCLIP
+Title: CARAVELA - Grande Orchestra Rosichino - VIDEOCLIP
 slug: caravela-grande-orchestra-rosichino-videoclip
 date:2015-08-14
 
@@ -24,4 +24,4 @@ Se notate che ci sono poche ragazze nel video \- a parte una chiaramente posticc
 sostituirle con le zdaure \(matrone emiliane\) che in queste valli
 abbondano. Alleghiamo foto di zdaura jijofan.
 
-![](/images/fetched_images/zdaura.jpg){: .img-fluid .w-100}
+![](/images/fetched_images/zdaura.jpg "zdaura"){: .img-fluid .w-100}

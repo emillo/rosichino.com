@@ -10,7 +10,7 @@ Zucchero Fornaciari. Ecco, ho l'immagine qui sotto di quello che
 sognai:
 
 
-![](/images/fetched_images/rosichino.jpg){: .img-fluid .w-100}
+![](/images/fetched_images/rosichino.jpg "il sogno di Rosichino"){: .img-fluid .w-100}
 
 C'era Zucchero, con la sua vocina roca, che cantava fuori dalla finestra con alle sue spalle il cielo stellato, come un Peter Pan. E cantava:
 

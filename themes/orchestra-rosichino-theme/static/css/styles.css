@@ -202,3 +202,39 @@ img {
     margin-bottom: 1rem;
     margin-top: 1rem;
 }
+
+
+.article-navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+.prev-article,
+.next-article {
+    font-size: 1.1em;
+    color: #333;
+    text-decoration: none;
+}
+
+.prev-article:hover,
+.next-article:hover {
+    text-decoration: underline;
+}
+
+/* Nascondi il testo completo su schermi piccoli */
+.nav-text::before {
+    content: attr(data-compact);
+}
+
+/* Mostra il testo completo su schermi grandi */
+@media (min-width: 768px) {
+    .nav-text::before {
+        content: attr(data-full);
+    }
+}

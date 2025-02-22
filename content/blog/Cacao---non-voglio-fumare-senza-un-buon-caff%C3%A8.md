@@ -16,8 +16,12 @@ solo perché serviva alla metrica della canzone.
 
 Bevendo caffè sarei stato pronto a schivare qualsiasi pericolo della giungla urbana di Salvador, la città del mio amore.
 
-![](/images/fetched_images/pilao.jpeg){: .img-fluid .w-100}
-Dovete sapere che in Brasile il caffè si fa riscaldando l'acqua, che poi viene filtrata attraverso dei filtri di carta o di calzamaglia. I filtri di carta erano distribuiti da Pilao,azienda brasiliana che possiamo menzionare visto che qui in Italia non credo sia possibile comprarli. Lo slogan diceva:
+![](/images/fetched_images/pilao.jpeg "pilao filtros de papel"){: .img-fluid .w-100} Dovete
+sapere che in Brasile il caffè si fa riscaldando l'acqua, che poi
+viene filtrata attraverso dei filtri di carta o di calzamaglia. I
+filtri di carta erano distribuiti da Pilao,azienda brasiliana che
+possiamo menzionare visto che qui in Italia non credo sia possibile
+comprarli. Lo slogan diceva:
 
 "Pilao, pilao
 

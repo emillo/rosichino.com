@@ -1,10 +1,10 @@
 title: Primavera Rosichina
 slug: primavera-rosichina
-date:2024-05-01
+Date:2024-05-01
 
 Buonasera a tutti ben ritrovati\!
 
-![](/images/fetched_images/antiraz.jpg){: .img-fluid .w-100}
+![](/images/fetched_images/antiraz.jpg "mondiali antirazzisti"){: .img-fluid .w-100}
 
 Prossime date della Grande Orchestra Rosichino:
 
