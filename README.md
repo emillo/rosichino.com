@@ -1,4 +1,4 @@
-# Orchestra Rosichino web site
+# Orchestra Rosichino's web site
 this repo contains the web site of the italian band "Orchestra Rosichino"
 
 The web site is built with [Pelican](https://docs.getpelican.com/en/latest/), a static site generator written in python.
@@ -17,7 +17,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-Then we install `pelican`, `markdown`` and `pelican-neighbors`
+Then we install `pelican`, `markdown` and `pelican-neighbors`
 
 ```bash
 python -m pip install pelican pelican-neighbors markdown
