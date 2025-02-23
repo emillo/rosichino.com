@@ -11,7 +11,7 @@ Ecco, mi trovavo in questo luogo splendido: Salvador da Bahia, quartiere popolar
 
 Una mattina in cui era appena andata via la pioggia mi fu di ispirazione: il riverbero della luce sull'erba bagnata, la voglia e il desiderio di non vedere più il dolore e l'umiliazione su questa gente e sulle donne di questi luoghi.La canzone è poi stata arrangiata con perizia dall'orchestra: molto bello il giro di basso di Oscar Serio. Buon ascolto.
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/58329213&color=ff5500"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/davide-erdas" title="Rosichino" target="_blank" style="color: #cccccc; text-decoration: none;">Rosichino</a> · <a href="https://soundcloud.com/davide-erdas/no-more-rain" title="No More Rain (vamos a cambiarlo todo)" target="_blank" style="color: #cccccc; text-decoration: none;">No More Rain (vamos a cambiarlo todo)</a></div>
-Il testo lo potete trovare [qui](http://www.spaghettisamba.com/p/testi.html)
+Il testo lo potete trovare [qui](/pages/canzoni.html#no-more-rain-vamos-a-cambiarlo-todo)
 
 ![](/images/fetched_images/socrates.jpeg){: .img-fluid .w-100}
 
