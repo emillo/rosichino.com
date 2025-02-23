@@ -45,3 +45,13 @@ DEFAULT_DATE_FORMAT ='%A %d %B %Y'
 ARTICLE_PATHS = ['blog']
 
 PLUGINS = ['neighbors']
+
+
+# Definisci i percorsi dei file statici
+STATIC_PATHS = [
+    'pages/.htaccess',  # Aggiungi il percorso del file .htaccess
+]
+
+EXTRA_PATH_METADATA = {
+    'pages/.htaccess': {'path': '.htaccess'},  # Copia .htaccess nella root di output
+}

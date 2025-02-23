@@ -36,6 +36,23 @@ ___
 
 
 ---
+
+
+
+<a href="/images/photos/mondiali_antirazzisti2.jpg" download title="Clicca per scaricare l'immagine">
+![Rosichino ai mondiali antirazzisti 2]({static}/images/photos/mondiali_antirazzisti2.jpg){: .img-fluid  .w-100} </a>
+
+
+---
+
+
+<a href="/images/photos/parma.jpg" download title="Clicca per scaricare l'immagine">
+![Rosichino a Parma]({static}/images/photos/parma.jpg){: .img-fluid  .w-100} </a>
+
+
+---
+
+
 <a href="/images/photos/pilastro.jpg" download title="Clicca per scaricare l'immagine">
 ![Rosichino al pilastro]({static}/images/photos/pilastro.jpg){: .img-fluid  .w-100} </a>
 
@@ -50,9 +67,39 @@ ___
 ---
 
 
+<a href="/images/photos/modena_libera.jpg" download title="Clicca per scaricare l'immagine">
+![Rosichino a Modena]({static}/images/photos/modena_libera.jpg){: .img-fluid  .w-100} </a>
+
+
+---
+
 
 <a href="/images/photos/tpo.jpg" download title="Clicca per scaricare l'immagine">
 ![Rosichino al TPO]({static}/images/photos/tpo.jpg){: .img-fluid  .w-100} </a>
+
+
+---
+
+<a href="/images/photos/davide.jpg" download title="Clicca per scaricare l'immagine">
+![Davide Rosichino]({static}/images/photos/davide.jpg){: .img-fluid  .w-100} </a>
+
+
+---
+
+<a href="/images/photos/marco.jpg" download title="Clicca per scaricare l'immagine">
+![Marco Pellegrino]({static}/images/photos/marco.jpg){: .img-fluid  .w-100} </a>
+
+
+---
+
+<a href="/images/photos/saverio.jpg" download title="Clicca per scaricare l'immagine">
+![Saverio Quadrio]({static}/images/photos/saverio.jpg){: .img-fluid  .w-100} </a>
+
+
+---
+
+<a href="/images/photos/vincenzo.jpg" download title="Clicca per scaricare l'immagine">
+![Vincenzo Durante]({static}/images/photos/vincenzo.jpg){: .img-fluid  .w-100} </a>
 
 
 ---
