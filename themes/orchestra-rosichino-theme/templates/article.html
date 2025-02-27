@@ -1,4 +1,6 @@
 {% extends "base.html" %}
+{% set page_title = article.title %}
+
 {% block html_lang %}{{ article.lang }}{% endblock %}
 
 {% block title %}{{ SITENAME }} - {{ article.title|striptags  }}{% endblock %}

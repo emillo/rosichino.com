@@ -1,6 +1,6 @@
 AUTHOR = 'Emiliano Grilli'
 SITENAME = 'Orchestra Rosichino Spaghetti Samba'
-SITEURL = ''
+SITEURL = 'https://www.rosichino.com/'
 
 PATH = 'content'
 
