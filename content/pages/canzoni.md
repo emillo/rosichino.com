@@ -610,7 +610,7 @@ c'è già chi crede già in sua maestà, evviva il maharaja<br>
 
 ---
 
-### La fronte della gioventù
+### Il fronte della Monica
 
 Là, dal fronte della gioventù,<br>
 dove sono nascosti i figli miei<br>
@@ -661,6 +661,48 @@ e non ha tempo libero<br>
 ---
 
 ### Non uscire più di casa
+
+Resto controvento al mare e son contento<br/>
+ma lo sono ancora quando guido qui nel centro,<br/>
+qui nel centro di Bologna e del mio tempo,<br/>
+non so aspettare ma lo devo fare spesso.<br/>
+
+Resto controvento e coi conflitti di interesse<br/>
+contro i complotti di chi vuole cieco e fesso<br/>
+il mio amico popolo sveglio e un po' ribelle,<br/>
+non si riprende ma non è più sottomesso.<br/>
+
+Se non riesci più a studiare<br/>
+e non vuoi più andare a scuola<br/>
+se sei stanco al lavoro e sei stanco anche di me<br/>
+se da quando sei tornato ogni giorno passa uguale<br/>
+se la vita ti sorride solo quando torni a casa,<br/>
+non uscire più di casa, non uscire più di casa:<br/>
+non uscire più di casa!<br/>
+Se non per cambiare il mondo,<br/>
+se non per girare in tondo 'ondo 'ondo 'ondo oh<br/>
+
+La frontiera vive col lavoro,<br/>
+la frontiera dell'umanità<br/>
+la frontiera libera le merci,<br/>
+ma se passano gli umani presto si richiuderà.<br/>
+
+Senti quanto è buono il gusto della frutta,<br/>
+sentii quanto è buono il gusto della qualità,<br/>
+senti quant'è amaro il gusto della marijuana<br/>
+quando senti da lontano odore di legalità.<br/>
+
+Se non riesci più a studiare,<br/>
+e non vuoi più andare a scuola,<br/>
+se sei stanco al lavoro e sei stanco anche di me,<br/>
+se da quando sei tornato ogni giorno passa uguale,<br/>
+se la vita ti sorride solo quando torni a casa,<br/>
+non uscire più di casa, non uscire più di casa:<br/>
+non uscire più di casa!<br/>
+Se non per girare in tondo se non cambiare il mondo 'ondo 'ondo 'ondo <br/>
+
+
+
 
 ---
 ### La na Bahia

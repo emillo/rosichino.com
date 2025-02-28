@@ -50,8 +50,10 @@ PLUGINS = ['neighbors']
 # Definisci i percorsi dei file statici
 STATIC_PATHS = [
     'pages/.htaccess',  # Aggiungi il percorso del file .htaccess
+    'pages/robots.txt'
 ]
 
 EXTRA_PATH_METADATA = {
     'pages/.htaccess': {'path': '.htaccess'},  # Copia .htaccess nella root di output
+    'pages/robots.txt': {'path': 'robots.txt'}
 }
