@@ -67,11 +67,11 @@ saindo do mar<br>
 ### Sabado
 
 <audio controls>
-  <source src="{static}/audio/11. Sabado.mp3" type="audio/mpeg">
+  <source src="{static}/audio/05-cd-trk5-OrchestraRosichino-LuceVerde-Sabado.mp3" type="audio/mpeg">
   Il tuo browser non supporta l'elemento audio.
 </audio>
 
-<a href="{static}/audio/11. Sabado.mp3" download>Scarica il file mp3</a>
+<a href="{static}/audio/05-cd-trk5-OrchestraRosichino-LuceVerde-Sabado.mp3" download>Scarica il file mp3</a>
 
 Foguete na rua<br>
 às seis da manha<br>
@@ -86,6 +86,14 @@ todo menino vai pro futebol<br>
 a gente que toca na mesa do bar,<br>
 esse é o sabado! em Salvador!<br>
 
+Foguete na rua<br>
+às dez da manhã<br>
+churrasco e cerveja<br>
+na praça central<br>
+
+No dia de festa no litoral, <br>
+só tem criança na beira do mar!<br>
+
 <a href="#top">Torna all'inizio ⤴</a>
 
 ---
@@ -93,11 +101,11 @@ esse é o sabado! em Salvador!<br>
 ### Salvador
 
 <audio controls>
-  <source src="{static}/audio/2. Salvador.mp3" type="audio/mpeg">
+  <source src="{static}/audio/08-cd-trk8-OrchestraRosichino-LuceVerde-Salvador.mp3" type="audio/mpeg">
   Il tuo browser non supporta l'elemento audio.
 </audio>
 
-<a href="{static}/audio/2. Salvador.mp3" download>Scarica il file mp3</a>
+<a href="{static}/audio/08-cd-trk8-OrchestraRosichino-LuceVerde-Salvador.mp3" download>Scarica il file mp3</a>
 
 Menina que veio de longe<br>
 ela fica tão perto,<br>
@@ -580,11 +588,11 @@ até o final<br>
 ### Maharaja
 
 <audio controls>
-  <source src="{static}/audio/" type="audio/mpeg">
+  <source src="{static}/audio/03-cd-trk3-OrchestraRosichino-LuceVerde-Maharaja.mp3" type="audio/mpeg">
   Il tuo browser non supporta l'elemento audio.
 </audio>
 
-<a href="{static}/audio/" download>Scarica il file mp3</a>
+<a href="{static}/audio/03-cd-trk3-OrchestraRosichino-LuceVerde-Maharaja.mp3" download>Scarica il file mp3</a>
 
 
 Già, c'era già,<br>
@@ -611,6 +619,16 @@ c'è già chi crede già in sua maestà, evviva il maharaja<br>
 ---
 
 ### Il fronte della Monica
+
+
+<audio controls>
+  <source src="{static}/audio/06-cd-trk6-OrchestraRosichino-LuceVerde-IlFronteDellaMonica.mp3" type="audio/mpeg">
+  Il tuo browser non supporta l'elemento audio.
+</audio>
+
+<a href="{static}/audio/06-cd-trk6-OrchestraRosichino-LuceVerde-IlFronteDellaMonica.mp3" download>Scarica il file mp3</a>
+
+
 
 Là, dal fronte della gioventù,<br>
 dove sono nascosti i figli miei<br>
@@ -662,6 +680,15 @@ e non ha tempo libero<br>
 
 ### Non uscire più di casa
 
+
+<audio controls>
+  <source src="{static}/audio/02-cd-trk2-OrchestraRosichino-LuceVerde-NonUscirePiuDiCasa.mp3" type="audio/mpeg">
+  Il tuo browser non supporta l'elemento audio.
+</audio>
+
+<a href="{static}/audio/02-cd-trk2-OrchestraRosichino-LuceVerde-NonUscirePiuDiCasa.mp3" download>Scarica il file mp3</a>
+
+
 Resto controvento al mare e son contento<br/>
 ma lo sono ancora quando guido qui nel centro,<br/>
 qui nel centro di Bologna e del mio tempo,<br/>
@@ -707,6 +734,15 @@ Se non per girare in tondo se non cambiare il mondo 'ondo 'ondo 'ondo <br/>
 ---
 ### La na Bahia
 
+
+<audio controls>
+  <source src="{static}/audio/07-cd-trk7-OrchestraRosichino-LuceVerde-LaNaBahia.mp3" type="audio/mpeg">
+  Il tuo browser non supporta l'elemento audio.
+</audio>
+
+<a href="{static}/audio/07-cd-trk7-OrchestraRosichino-LuceVerde-LaNaBahia.mp3" download>Scarica il file mp3</a>
+
+
 Lá na Bahia tem uma santa fé, <br>
 tem a santa fé no que vai dar o poder.<br>
 Lá na Bahia tem uma santa fé, <br>
@@ -726,6 +762,15 @@ no trânsito dos carros e na ferrovia sem via.<br>
 
 ---
 ### Espirito livre
+
+
+<audio controls>
+  <source src="{static}/audio/01-cd-trk1-OrchestraRosichino-LuceVerde-EspiritoLivre.mp3" type="audio/mpeg">
+  Il tuo browser non supporta l'elemento audio.
+</audio>
+
+<a href="{static}/audio/01-cd-trk1-OrchestraRosichino-LuceVerde-EspiritoLivre.mp3" download>Scarica il file mp3</a>
+
 
 Aonde foi<br>
 teu amor pelo samba?<br>
@@ -752,6 +797,14 @@ sambar, sambar, vai chegar até onde...<br>
 
 ---
 ### Sera que meu filho
+
+<audio controls>
+  <source src="{static}/audio/04-cd-trk4-OrchestraRosichino-LuceVerde-SeraQueMeuFilho.mp3" type="audio/mpeg">
+  Il tuo browser non supporta l'elemento audio.
+</audio>
+
+<a href="{static}/audio/04-cd-trk4-OrchestraRosichino-LuceVerde-SeraQueMeuFilho.mp3" download>Scarica il file mp3</a>
+
 
 
 Vai te encontrar um sujeito,<br>
