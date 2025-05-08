@@ -7,16 +7,15 @@ Category: Pagina
 
 Non perderti l'Orchestra Rosichino dal vivo! Ecco le date confermate:
 
-- **11 Aprile 2025**: Binario 69, via de' Carracci · Bologna
 - **9 Maggio 2025**: Mattatoio Culture Club, Via Pio Rodolfo, 4 · Carpi
 - **16 Maggio 2025**: Bar Maurizio · Bologna
 - **12 Giugno 2025**: Le serre dei giardini · Bologna
 - **2 Luglio 2025**: La Fattoria Urbana · Bologna
+- **6 Settembre 2025**: Casa di Quartiere "Scipione dal Ferro" · Bologna
 
 
-<iframe class="widget_iframe" frameborder="0" height="550" scrolling="no" src="https://www.reverbnation.com/widget_code/html_widget/artist_1264110?widget_id=52&amp;posted_by=artist_1264110&amp;pwc[design]=default&amp;pwc[background_color]=%23333333&amp;pwc[layout]=detailed&amp;pwc[show_map]=1%2C0&amp;pwc[size]=fit" width="100%"></frame>
 
-
+<iframe class="widget_iframe" frameborder="0" height="550" scrolling="no" src="https://www.reverbnation.com/widget_code/html_widget/artist_1264110?widget_id=52&amp;posted_by=artist_1264110&amp;pwc[design]=default&amp;pwc[background_color]=%23333333&amp;pwc[layout]=detailed&amp;pwc[show_map]=1%2C0&amp;pwc[size]=fit" width="100%"></iframe>
 
 
 
@@ -27,6 +26,7 @@ Segui i nostri aggiornamenti sui social per ulteriori date e dettagli. Ti aspett
 
 ### Concerti Passati
 
+- **Ven, 11 apr 2025** Binario 69, via de' Carracci · Bologna
 - **Ven, 4 ott 2024** Casa di Quartiere "Scipione dal Ferro" · Bologna
 - **Ven, 21 giu 2024** Via Romita 2 , Bologna
 - **Dom, 10 set 2023** Fondo Comini, via Fioravanti · Bologna
